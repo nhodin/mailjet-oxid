@@ -3,7 +3,7 @@ mailjet-oxid
 
 Plugin Mailjet pour Oxid eShop (v4.7+/5.0+)
 
-Synchronisez votre liste de contacts Mailjet avec vos abonnés newsletter et configurez l\'envoi des emails.
+Synchronisez votre liste de contacts Mailjet avec vos abonnés newsletter et configurez l'envoi des emails.
 
 Install
 =======
