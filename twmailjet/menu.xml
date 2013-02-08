@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<OX>
+    <OXMENU id="NAVIGATION_ESHOPADMIN">
+        <MAINMENU id="TWMAILJET">
+                <SUBMENU id="TWMAILJET_CONFIGURATION" cl="twmailjet_configuration"/>
+                <SUBMENU id="TWMAILJET_CONTACTLIST" cl="twmailjet_contactlist"/>
+        </MAINMENU>
+    </OXMENU>
+</OX>
